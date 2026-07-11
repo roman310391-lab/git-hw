@@ -10,4 +10,6 @@
    - Email: `roman310391@gmail.com`
 3. Отредактирован файл `README.md` и отправлен в удаленный репозиторий.
 
-* **Ссылка на выполненный коммит:** [First commit](https://github.com/roman310391-lab/git-hw/commit/8138af8f504e9c687e834928b0f81d58231cd6fd)
+* **Ссылка на выполненный коммит:**
+* https://github.com/roman310391-lab/git-hw.git
+* b0e48f27d906a3c467cf04e26265635df4432404
